@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1,Чаваш Ен
+http://mhd58.iptv2022.com/ntrk/chavashen/324/vh1/playlist.m3u8
+#EXTINF:-1,Хабар
+https://sc.id-tv.kz/Khabar_34_35.m3u8
+#EXTINF:-1,Хабар 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1,Тивиком (Улан-Удэ)
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1,ТНТ Moldova
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1,ТВЖ (Аша)
+http://37.79.254.224:1234/hls2/tvg.m3u8
+#EXTINF:-1,НТВ Молдова
+rtmp://93.115.137.166/live/ntvm
+#EXTINF:-1,НВК Саха HD
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1,Кунел ТВ
+http://hls-iptv.tattelecom.ru/online_tv_Kynel/tracks-v1a1/index.m3u8
+#EXTINF:-1,9 волна
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1,ASTANA
+https://sc.id-tv.kz:443/Astana.m3u8
+#EXTINF:-1,Almaty TV (KZ)
+https://sc.id-tv.kz/Almaty_34_35.m3u8
+#EXTINF:-1,Armenia tv
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1,Armenia tv 3
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1,CBC TV (AZ)
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1,Caspian News (KZ)
+https://sc.id-tv.kz/CaspianNews_34_35.m3u8
+#EXTINF:-1,Gakku TV
+https://sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:-1,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,MD Moldova 1
+http://live.trm.md:1935/live/_definst_/MoldovaUnu1/index.m3u8
+#EXTINF:-1,MD Moldova 2
+http://212.0.209.209:1935/live/_definst_mp4:MoldovaDoi2/playlist.m3u8
+#EXTINF:-1,Maidan TV
+http://hls-iptv.tattelecom.ru:80/online_tv_Maydan/tracks-v1a1/index.m3u8
+#EXTINF:-1,Muzika-Hit TV (KZ)
+https://sc.id-tv.kz/HitTV_34_35.m3u8
+#EXTINF:-1,8 канал (Витебск) (576p) [Not 24/7]
+http://95.46.208.8:24433/art
+#EXTINF:-1,Azstar TV (1080p) [Not 24/7]
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1,Ex sssr 1
+http://185.57.68.33:8090/1/index.m3u8
+#EXTINF:-1,LRT Lithuania
+http://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-1,Хузур ТВ (720p) [Not 24/7]
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1,1TV (240p) [Geo-blocked]
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1,2TV (720p) [Not 24/7]
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1,5-րդ ալիք (480p)
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1,Abaza TV
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+#EXTINF:-1,Altyn Asyr (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1,Aşgabat (226p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1,As a Child (720p)
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
+#EXTINF:-1,Azon TV Uzbekistan
+http://tv2.azon.uz/high/stream.m3u8
+#EXTINF:-1,Azstar TV (1080p) [Not 24/7]
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1,Est TV (Neamt) (576p) [Not 24/7]
+http://89.38.8.130:39435
+#EXTINF:-1,ETV (720p)
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1,21TV (480p)
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1,ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1,ARB (576p) [Not 24/7]
+https://hasan.tvcag.live/str.yodacdn.net/arb/index.m3u8?token=5e1187fd88176de345e3cdeb5e06b1edaf1c826a-a638c51ea308530e7512e18fffc79d82-1645992959-1645982159
+#EXTINF:-1,Armenia Premium (1080p)
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1,Armenia Հայ Կինո (480p)
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1,Armenia Ջան TV (480p) [Not 24/7]
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1,Armenia Սինեմաքս (480p)
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1,Armenia Տուն Թունիկ (480p)
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1,Armenia Քոմեդի (480p)
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1,ARTN TV Armenia
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1,Atameken Business (1080p) [Not 24/7]
+http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1,ATV (480p)
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1,ATV Թավա TV (480p)
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1,ATV ԽաղԱլիք (234p)
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1,ATV Կինոման (480p)
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1,ATV Հայ TV (480p)
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1,ATV Ֆիլմզոն (480p)
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1,Azerbaijan News TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1,Formula-Georgia
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1,Gakku (576p) [Not 24/7]
+https://sc.id-tv.kz/Gakku.m3u8
+#EXTINF:-1,Hit TV (576p) [Not 24/7]
+https://sc.id-tv.kz/HitTV.m3u8
+#EXTINF:-1,Horizon Armenian (1080p)
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1,İdman TV Azerbaidzan
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1,Kəpəz TV (540p) [Not 24/7]
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1,Kompas TV KG
+https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+#EXTINF:-1,LRT Lituanica (720p)
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
